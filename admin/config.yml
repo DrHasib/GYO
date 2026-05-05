@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: GYO # উদাহরণ: drhasib/my-project
+  repo: drhasib/GYO # উদাহরণ: drhasib/my-project
   branch: main # আপনার মেইন ব্রাঞ্চের নাম
 
 media_folder: "images/uploads" # ছবি আপলোড করলে যেখানে সেভ হবে
